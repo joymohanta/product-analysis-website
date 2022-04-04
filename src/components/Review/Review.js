@@ -1,17 +1,13 @@
 import React, { useEffect, useState } from "react";
+import useClientReview from "../../hooks/useClientReview";
 import ClientReview from "../ClientReview/ClientReview";
 import "./Review.css";
 
 const Review = () => {
-  const [clientReview, setClientReview] = useState([]);
-  useEffect(() => {
-    fetch("clientReview.json")
-      .then((res) => res.json())
-      .then((data) => setClientReview(data));
-  }, []);
+  const [clientReview, setClientReview] = useClientReview();
   return (
     <div className="card-title">
-      <h1>Our Client's Feedback</h1>
+      <h1>Our Client Reviews</h1>
 
       <div className="card">
         {clientReview.map((singleReview) => (

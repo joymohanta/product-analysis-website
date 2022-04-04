@@ -1,6 +1,13 @@
 .per-card{
-    width: 250px;
-    border: 1px solid gray;
+    width: 300px;
+    height: 327px;
     border-radius: 5px;
 
+}
+.per-card:hover{
+    box-shadow: 5px 5px 25px grey;
+}
+.icon{
+    width: 14px;
+    margin-top: 0px;
 }

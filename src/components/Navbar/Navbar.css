@@ -1,5 +1,5 @@
 .menu{
-    margin-top: 15px;
+    margin-top: 25px;
     text-align: center;
 }
 .nav-link{
@@ -7,9 +7,12 @@
     text-decoration: none;
     font-weight: 500;
     margin-right: 35px;
-    padding: 5px;
+    padding: 5px 10px;
     
 }
 .nav-link:hover{
-    border-bottom: 2px solid slateblue;
+    border-bottom: 7px solid slateblue;
+    box-shadow: 5px 5px 25px grey;
+    padding: 5px 10px;
+    border-radius: 10px;
 }

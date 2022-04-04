@@ -2,37 +2,43 @@
     {
       "id": 1,
       "img": "https://t3.ftcdn.net/jpg/02/07/55/70/360_F_207557081_uh1w4xm9CGqjFLJgrQKYPm9kiASOCPqx.jpg",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Dylan Thomas"
     },
     {
       "id": 2,
       "img": "https://us.123rf.com/450wm/racorn/racorn1802/racorn180200014/94754373-middle-aged-businessman-wearing-glasses-smiling-at-the-camera-in-a-head-and-shoulders-portrait-with-.jpg?ver=6",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Robert Mingle"
     },
     {
       "id": 3,
       "img": "https://media.istockphoto.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?k=20&m=1179420343&s=612x612&w=0&h=G2UGMVSzAXGAQs3pFZpvWlHNRAzwPIWIVtSOxZHsEuc=",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Prince Shref"
     },
     {
       "id": 4,
       "img": "https://media.istockphoto.com/photos/young-man-working-at-home-in-the-evening-picture-id1181035364?k=20&m=1181035364&s=612x612&w=0&h=8Owwxbd2OC6lLTeTcnB8_ihUEV9rM2bWswj0vs58uCk=",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Leana Gordo"
     },
     {
       "id": 5,
       "img": "https://media.istockphoto.com/photos/mature-mixed-race-business-man-picture-id1059661424?b=1&k=20&m=1059661424&s=170667a&w=0&h=i8ABcR-T2MiJynUiy064bjIp_rTEmlA1k5FRp1RmOCY=",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Samuel Jhon"
     },
     {
       "id": 6,
       "img": "https://media.istockphoto.com/photos/living-that-urban-life-picture-id1165314750?b=1&k=20&m=1165314750&s=170667a&w=0&h=mS8qGVV2GWQ9S_9kNsBTg3ZTN5nCOfByLQkzqxOqPuQ=",
-      "review": "This product is perfectly good for them who are professionally office worker",
+      "review": "This product is perfectly good for professional office worker",
+      "rating": "5.00",
       "name": "Arnold Marie"
     }
   ]
