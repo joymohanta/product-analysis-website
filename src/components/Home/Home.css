@@ -17,9 +17,10 @@
     color: orange;
 }
 .button{
+    text-decoration: none;
     color: aliceblue;
     font-size: medium;
-    font-weight: 600;
+    font-weight: 500;
     padding: 10px 15px;
     border: none;
     border-radius: 10px;

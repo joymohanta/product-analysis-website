@@ -3,7 +3,7 @@ import "./Blogs.css";
 
 const Blogs = () => {
   return (
-    <div>
+    <div className="article">
       <h1 className="blog-title">Frequently Ask Question</h1>
       <hr />
       <h3>What is semantic tag?</h3>
@@ -18,6 +18,18 @@ const Blogs = () => {
         developer, it is kind of complicated to find the definite portion. On
         the otherhand, if we use semantic tags, developer will easily find the
         apparent portion. This is why we use semantic tag.
+      </p>
+      <br />
+      <h3>What is context API?</h3>
+      <p>
+        Context API is react structure. We use it to reduce props-drilling in
+        coding to exchange unique data. In our project, when we need to receive
+        some data from one state to another through props, it drills. But use of
+        context API makes project code simple without drilling. In coding,
+        sometime we need to declare child component more as we need. And
+        everytime we had to use props to manage data again and again which is
+        called props-drilling. If we use context API, it doesn't drill the code.
+        So, using context API is much better than props-drill.
       </p>
     </div>
   );
