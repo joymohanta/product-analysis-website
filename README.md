@@ -1,12 +1,13 @@
 # Best Laptop on the Planet
 
-Visit the live Link here:
+## Visit the live Link here:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Details
 
-## Available Scripts
-
-In the project directory, you can run:
+- We use here dashboard for review
+- Included reviewer photo
+- Product revenue chart for selling details
+- 3d menu bar added the Navbar
 
 ### `npm start`
 
