@@ -1,0 +1,7 @@
+.chart{
+    display: flex;
+    margin-top: 50px;
+}
+.item{
+    padding: 30px;
+}

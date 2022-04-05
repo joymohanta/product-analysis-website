@@ -10,11 +10,17 @@
     width: 500px;
     border-radius: 10px;
 }
+.home-title{
+    font-size: 40px;
+}
+.home-title span{
+    color: orange;
+}
 .button{
     color: aliceblue;
-    font-size: large;
+    font-size: medium;
     font-weight: 600;
-    padding: 15px;
+    padding: 10px 15px;
     border: none;
     border-radius: 10px;
     background-color: rgb(243, 72, 160);;
@@ -47,4 +53,18 @@
 .review-btn{
     text-align: center;
     margin-bottom: 30px;
+}
+.see-all-button{
+    text-decoration: none;
+    border: none;
+    font-size: medium;
+    background-color: aqua;
+    padding: 7px 60px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.see-all-button:hover{
+    color: aliceblue;
+    background-color: slateblue;
+    transition: ease-in 0.3s;
 }
