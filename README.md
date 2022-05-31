@@ -1,5 +1,8 @@
 # Best Laptop on the Planet
 
+This is one of the best laptop in the planet.\
+It may be not believed to someone but it is true.
+
 ## Visit the live Link here:
 
 [https://super-cat-fadc66.netlify.app/]
